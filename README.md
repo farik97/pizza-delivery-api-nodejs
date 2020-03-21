@@ -1,11 +1,11 @@
 # pizza-delivery-api-nodejs
-This is an API for pizza delivery service
-Features:
-Register User
-Delete User
-Edit User
-Login User (create token)
-Logout User (delete token)
-Get Menu Items
-Add Item to Cart
+This is an API for pizza delivery service /n
+Features: /n
+Register User /n
+Delete User /n 
+Edit User /n 
+Login User (create token) /n
+Logout User (delete token) /n 
+Get Menu Items /n 
+Add Item to Cart /n
 Checkout Cart
