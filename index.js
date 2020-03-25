@@ -11,10 +11,8 @@ var app = {}
 
 // init function
 app.init = function(){
-    
     // start the server
     server.init()
-
 }
 
 // execute 

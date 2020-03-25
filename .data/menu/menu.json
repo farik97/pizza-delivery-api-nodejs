@@ -1,0 +1,27 @@
+[
+    {
+        "name": "ceasar",
+        "type": "salad",
+        "price": 5
+    },
+    {
+        "name": "four cheese",
+        "type": "pizza",
+        "price": 10
+    },
+    {
+        "name": "pepperoni",
+        "type": "pizza",
+        "price": 10
+    }, 
+    {
+        "name": "carbonara",
+        "type": "pizza",
+        "price": 12
+    },
+    {
+        "name": "chocolate",
+        "type": "desert",
+        "price": 8
+    }
+]
