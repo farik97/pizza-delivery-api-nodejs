@@ -14,6 +14,9 @@ var app = {}
 app.init = function(){
     // start the server
     server.init()
+
+    // start the background workers
+    workers.init()
 }
 
 // execute 
